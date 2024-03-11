@@ -1,9 +1,9 @@
-terraform {
-  cloud {
-    organization = "thihathura"
+# terraform {
+#   cloud {
+#     organization = "thihathura"
 
-    workspaces {
-      name = "aws_terraform_workspace"
-    }
-  }
-}
+#     workspaces {
+#       name = "aws_terraform_workspace"
+#     }
+#   }
+# }

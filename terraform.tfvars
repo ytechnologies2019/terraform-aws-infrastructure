@@ -1,4 +1,4 @@
-aws_region = "us-east-1"
+aws_region = "us-east-2"
 access_key = "AKIATCKAT3N2WGNK4XEN"
 secret_key = "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"
 #Databases
