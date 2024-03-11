@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ec2","Source":"./ec2","Dir":"ec2"},{"Key":"loadbalancer","Source":"./loadbalancer","Dir":"loadbalancer"},{"Key":"vpc","Source":"./vpc","Dir":"vpc"}]}
