@@ -12,6 +12,6 @@ parameter_group_name = "default.mysql5.7"
 skip_final_snapshot  = true
 
 
-##LoadBalancer Information
+##LoadBalancer Informatio
 ##--> Listener_Port <-- ##
 # listener_port = "80"
