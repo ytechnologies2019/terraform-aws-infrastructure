@@ -12,10 +12,10 @@ variable "access_key" {
   sensitive = true
 }
 
-# variable "secret_key" {
-#   type      = string
-#   sensitive = true
-# }
+variable "secret_key" {
+  type      = string
+  sensitive = true
+}
 
 # variable "allocated_storage" {
 #   type = number
