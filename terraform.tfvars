@@ -1,6 +1,6 @@
 aws_region = "us-east-2"
-access_key = "AKIATCKAT3N2WGNK4XEN"
-secret_key = "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"
+access_key = "AKIATCKAT3N22WOSTZ4Y"
+secret_key = "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"
 #Databases
 allocated_storage    = 10
 engine               = "mysql"
