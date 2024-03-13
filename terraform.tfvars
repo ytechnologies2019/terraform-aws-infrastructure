@@ -13,5 +13,5 @@
 
 
 ##LoadBalancer Informatio
-##--> Listener_Port <-- ##
+##--> Listener_Port <-- #
 # listener_port = "80"
