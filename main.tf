@@ -34,7 +34,7 @@ module "vpc" {
 
 module "ec2" {
   source        = "./ec2"
-  instance_count = 2
+  instance_count = 1
   public_subnet = module.vpc.public_subnet
   security_groups = module.vpc.aws_vpc_security_group_ingress_rule
   key_name = "login-key"
