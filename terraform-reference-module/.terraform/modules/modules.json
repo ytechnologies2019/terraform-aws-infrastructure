@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"infrastructure","Source":"app.terraform.io/terraform-aws-cicd/infrastructure/aws","Version":"1.0.0","Dir":".terraform/modules/infrastructure"},{"Key":"infrastructure.ec2","Source":"./ec2","Dir":".terraform/modules/infrastructure/ec2"},{"Key":"infrastructure.vpc","Source":"./vpc","Dir":".terraform/modules/infrastructure/vpc"}]}
